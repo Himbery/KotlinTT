@@ -1,0 +1,174 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TakeToys</string>
+
+    <string name="config_url">gs://taketoys-4d8d8.appspot.com/config.json</string>
+
+    <string name="facebook_app_id">941539362861361</string>
+    <string name="fb_login_protocol_scheme">fb941539362861361</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Статьи</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">5 indicators of enduring family harmony - Fidelity</string>
+    <string name="menu_gallery">Family Harmony</string>
+    <string name="menu_slideshow">How to Live in Harmony with Others</string>
+    <string name="menu_tools">Tips for avoid misunderstandings of husband and wife and live in harmony.</string>
+    <string name="menu_share">How To Create a Harmonious Family</string>
+
+
+    <string name="text_one">Key takeaways \n
+        Seek alignment instead of agreement. Families are aligned when they feel they are generally going in the same direction or have a common purpose.
+        Focus on creating peership in your family to build a collective group of people who can maintain their own individuality, while remaining connected to one another.
+        When engaging family members in conversations, use questions to foster healthy and constructive dialogue.
+        Use family storytelling to create closeness among family members and encourage everyone to offer their view of reality through honesty, caring, and openness.
+        We live in a world of feedback. We wear technology that delivers a constant stream of data about our blood pressure and our sleep patterns. Our car dashboard tells us about our driving habits, and we rely on apps for directions, restaurant ratings, bank transactions, and even real-time approval from our friends on social media.\n
+        This moment-to-moment flow in information helps us gauge how things are going in different parts of our lives. We receive vital signs for health, warning systems for safety, and directional tools for navigation. In each case, we are receiving leading indicators of longer term outcomes.\n
+        However, there are essential areas of our life for which we do not have ready access to quantitative feedback. There is no Fitbit for relationships, for example. Instead, we are left to our own devices and we accept after-the-fact outcomes or lagging indicators as our only option for determining how we are doing. We obviously hope for positive outcomes like love, intimacy, closeness, and open communication, but, in reality, we often experience negative ones, such as anger, resentment, entitlement, rivalry, judgment, and even dissolution of a relationship.\n
+        The good news is you don\’t have to settle for lagging indicators in your family relationships; you can actually look for leading indicators. The most important and accessible places to watch are the family conversations about money ("What is it and how do I get it?"), wealth ("What does it mean to be wealthy, and whose wealth is it?"), and estate planning ("Where is the money going and who decides?"). More specifically, watch how these family conversations change as the parent-child relationship moves through the stages of life.\n
+        The following 5 leading indicators—the family collective, family dialogue, family alignment, life events, and the family story—and their corresponding reflective questions and application to the parent-child relationship will help you be alert to changes.\n\n
+        \nThe family collective: Creating shared identity \n
+        Family collective questions \n
+        Q: Do parental hierarchies and family roles determine how your family communicates?\n
+        Q: Are children given more "voice" in the family through different life stages?\n
+        Q: Are individuals able to have their own views and lives, while also feeling connected to the family as a whole?\n
+        In families, there are individuals as well as a collective. We each have our own thoughts, desires, and wishes, and we are also part of a larger group with its own collective beliefs, expectations, and loyalties. The central theme in family development is learning how to be both a "me" and an "us". The family collective is a group of people who can develop and maintain their own individuality, while also remaining connected to one another.
+        A shared identity is created when there is a "healthy tension" between the individual and the collective. Developing this healthy tension requires a shift in the parent-child relationship through time from a hierarchy to a place where parent and child treat each other with a sense of mutuality, and honor the individual without factoring in age, gender, or family roles. We call that peership.
+        To determine if these peer relationships exist, consider whether your family has moved beyond parental hierarchies and strong role definitions that everyone must follow. Also ask if children are given more "voice" in the family through different life stages, or if there is always the presence of a dominant parental voice. For example, a couple gives their son a voice in the "budget" he will receive for college. The son then asks if he can keep the money if he is under budget. This is a peership exchange.
+        We navigate this tension between the individual and the collective throughout our lives, and money, wealth, and estate planning conversations are opportunities for us to embrace that tension. A college-aged equestrian wants to buy her own horse, but her parents don\’t take her commitment seriously; a couple who wants to help their newlywed son and daughter-in-law "get started" in their life together consider how much to give, and whether the gesture will be well received; a husband and wife wonder whether they should talk to their children about how much money goes to them and how much goes to philanthropic causes. How the individual and collective engage in these scenarios can provide leading indicators for the health and harmony of the family.
+        \nFamily dialogue: Creating shared meaning\n
+        Family dialogue questions\n
+        Q: Do family members strive to explore and understand the views of others?\n
+        Q: Do family members have a mindset to create something new and shared when they talk together?\n
+        Q: Do family members look forward to talking openly and deeply about important topics?\n
+        The ability to dialogue is another leading indicator in healthy family relationships. Dialogue isn\'t just talking; it literally means "talking through." Dialogue is not the same as trying to seek consensus. Individuals are not trying to agree—they are thinking out loud together in a meaningful way. A family dialogue involves the ability to talk through a subject from beginning to end with everyone having input; in a dialogue, individuals suspend judgment, engage respectfully, ask questions, and allow something new to emerge.
+        Consider this negative example: During a family meeting, 2 parents and their 4 adult children don\'t make much headway in discussing their philanthropic goals. The children debate their interests and current projects, and Dad becomes frustrated because he\'s already established the family\'s direction and simply wants the kids to carry it forward. Opinions are volleyed back and forth and no participant actually feels heard by the others.
+        Families who struggle with dialogue tend to have individuals with strong opinions who want to ensure that their own opinion wins the day. But, because the goal of dialogue is to create shared meaning, trying to win with opinions destroys dialogue and breaks down the healthy tension between the individual and the collective. The family in the example above didn\'t follow the practices of dialogue. As a result, they were unable to create shared philanthropic goals that would bring new meaning to the family.
+        Money, wealth, and estate planning topics are some of the most difficult to move from a parent-child hierarchy to dialogue. A son asks his father, who also is his trustee, for permission to use the trust money from his grandmother to buy a new house. This question offers a great opportunity for dialogue: The father can ask questions both as a parent and as a trustee, such as whose money it is, what the grandmother\’s intention was in creating the trust, whether the son will still need to consider "what he can afford," and what his son\'s other life goals and interests are.
+        Families who turn important life questions and topics into a dialogue in which they create shared meaning will enrich their relationships with each other. \n
+        Family alignment: Creating shared purpose \n
+        Family alignment questions \n
+        Q: Is your family normally aligned around important subjects or decisions?\n
+        Q: Does your family discuss high-level things such as values, vision, desires, wishes, interests, intent, etc.?\n
+        Q: Are family members able to share opinions without feeling they need to agree?\n
+        Families are aligned when they feel they are generally going in the same direction or have a common purpose. Alignment is not the same as agreement, however. In fact, family members don\’t need to agree on the specifics to be aligned. Believing that you always have to debate and agree on every detail can actually keep you from getting aligned on a higher level.
+        Families who struggle with alignment tend to want things to be black or white. They can "require" agreement as a sign of family loyalty and often have an enduring parent-child hierarchy around agreement.
+        A successful father sees himself as a generous person who wants to share his hard-earned wealth with his children and grandchildren. The problem is, in order for them to receive the money, he expects everyone to agree with him on all his "money views." The father concludes the family is aligned, but the truth is that his family members simply don\'t feel free to disagree with him. Because there is no peership or ability to dialogue beyond agreement, he is missing the opportunity to know what alignment might look like in his family planning.
+        A daughter and her parents, on the other hand, take a different tack when they sit down to discuss a prenuptial agreement. They begin by discussing each person\'s views for its purpose, with the parents offering their view of wealth and disclosing the wealth that would be affected by the prenuptial. The daughter describes her view of how inherited wealth might affect her upcoming marriage, and shares her values around money and inheritance. This approach allows family members to find alignment around important personal concerns and discuss a whole new stage of life for everyone.
+        Understanding and focusing on alignment versus who agrees with whom can significantly change the practices and culture of a family. As a leading indicator, alignment reflects whether family members can step away from their personal interests to discuss money, wealth, and estate planning subjects in a way that aligns the greater interests and the direction of the family collective.
+        \n Life events: Creating shared purpose\n
+        Life events questions\n
+        Q: Do you discuss and explore with other family members the meaning of important life events?\n
+        Q: Does your family openly explore the money, wealth, and estate planning topics when they are part of a life event?\n
+        Q: Are family members able to share opinions without feeling they need to agree?\n
+        How families engage conversationally and emotionally around life events is a leading indicator of intimacy—and, ultimately, harmony—in the family. Each life event provides a door to explore deeper meaning and create connections within the family. And many life events have some money, wealth, and estate planning topics intertwined.
+        Missing life events often happens for 2 reasons: First, the pace of life is so quick that events are already part of the past before we can even think to engage in them. A son is out of college, in the workforce, and trying to buy his first house before his parents have discussed and understood his career and financial choices. When they finally realize where he is, perhaps because he\’s asking for advice or assistance, they slip into parent mode: "There is no way you can afford that!" or "You should have thought of that when you decided to be a musician!" rather than exploring his decisions as peers.
+        The second reason life events are missed is because families are often unpracticed in—or fear—the deeper intimacy associated with these occasions. As a result, they engage only with the surface-level aspects. For instance, a young woman has fallen in love and wants to get married quickly. Rather than exploring their daughter\’s new love in conversations and getting to know her future partner, Mom jumps to the difficulty of planning a wedding at short notice and Dad calls his attorney to draft a prenuptial agreement because he doesn\'t know his daughter\'s fiancé.
+        There has been plenty written by and for parents about the guilt and lost opportunity associated with missed life moments, but not often in the context of money, wealth, and estate planning. The fact is that life events, precisely because they are so often loaded with money, wealth, and estate planning interests, are the most natural doors to these sometimes hard-to-broach topics. Teenagers getting their first job, deciding who pays for college, graduating, getting married, buying a first home, the birth of grandchildren, sickness, aging, and death all provide natural financial learning opportunities for families. Meaningful conversational engagement around life events is an important leading indicator of overall family health and harmony.
+        \n The family story: Creating shared understanding
+        \n Family story questions
+        \n Q: Is storytelling part of a positive family ritual that everyone wants to engage in?
+        \n Q: Are the stories told in your family congruent with your own memories and sense of self?
+        \n Q: Do your family stories bring people together and create closeness? \n
+        Every family has a story, which, in turn, is composed of many different stories. Family stories are about both individual lives and collective experience. As such, they embody development and growth, describe how family members make sense of events and relationships, and illuminate both the health and drama of family dynamics.
+        While often overlooked, family stories also inform views around money, wealth, and estate planning, providing an important leading indicator of family health across generations on these topics. A grandfather shares the story of how he earned his first dollar; kids talk about their first lemonade stand; a millennial wrestles with his connection to the family farm; 2 sisters discuss the meaning of family heirlooms as they settle their parents\' estate; a mother shares how her father\'s struggle with Alzheimer\'s has inspired her passion for supporting medical research. When families tell these stories, the stories themselves become a vehicle for family members to practice peership.
+        In some families, it may not feel enjoyable or even safe to tell stories, especially stories about money, wealth, and estate planning. Entitlement, greed, possession fights, inequality, lack of transparency, painful surprises, sibling rivalry, severed relationships, and being cut out of wills can create too much fear and pain for family members to engage.
+        By comparison, integrated stories offer honest reflections and tell the "whole" story—triumphs and failures, good and bad, pain and healing—which gives everyone space to tell their own part of the story and create a shared understanding of their experiences as a family. Integrated stories allow people to grow and change, and don’t force them to hide parts of themselves or be pigeon-holed by negative attributions and caricatures. In healthy families, even when the stories are painful, storytelling creates closeness, because family members are encouraged through honesty, caring, and openness to offer their view of reality.
+        By surfacing and connecting to their family story, family members can influence the course of their narrative. Instead of individuals being pawns in their own family story, together, the collective can write the future story and ending they all desire, and in turn strengthen their family relationships.
+        \n Maintaining family harmony into the future\n
+        Just as Fitbits can motivate and track ongoing efforts to help you achieve physical well-being, these 5 leading indicators can inspire the first steps you and your family take on the path toward a more reflective relationship. You may at first feel overwhelmed by all the "data" your reflection generates, but remember—as with all feedback mechanisms and change efforts—you should start slow.
+        The goal is not to change family members, but instead to invite them to join you in reflective practices so you can collectively and ever so slightly, change your family\'s trajectory into the future. By working with your financial advisor to identify and embrace the leading indicators in your own relationships, you can reach one of life\'s most elusive and yet rewarding destinations: enduring family harmony.\n\n\n\n
+    </string>
+
+    <string name="text_two">
+        How we hold our family is one of the most basic and powerful stories that define a person\’s life. Strangely,  much of how a person holds their household is determined by cultural stories and the habits we inherit from our parents. An important step in life is taking to time to consider and then reinforce your stances for a healthy home life.\n
+        Be aware that the stories about how to hold our kin together are powerful enough to override and go against personal needs in life.  Add in the fact that many people burn out trying to force what they think their family story should be rather than letting it evolve to a balanced set of relationships. This means quite a few homes are out of balance despite a person’s best efforts to hold their home together.
+        \n Don\’t Hold Picture Perfect Ideals \n
+        Let\’s face it; we all know the picture-perfect family. Then we try so hard to make our own family to be as perfect. Well, that isn\’t going to happen. No family is perfect; every group we forge together will have problems to overcome. The more a person tries to force their family to be picture perfect, the faster it will fall apart into disharmony. \n
+        Let your clan be unique. \n
+        Understand your family will have its own dynamics. Yes, to even include some fighting.  Ironically a dash of interpersonal family challenges will serve a purpose in teaching each other how to handle problems in the real world outside of the family.\n
+        Don\’t Confuse Love for Harmony \n
+        Love and harmony are two very different things. To like someone is to be harmony with that person. Harmony means you respect and work with a person in a manner to reinforce each other. To love someone is to want them to be more. In this, you can see that love and like (harmony) are two very different processes that compliment each other.
+        You might love familial members, but often times they will irritate you or piss you off. You may find you never have the patience for a sibling or find yourself unable to talk to your parents. This is because chemistry varies from person to person. The basis for all relationships initially comes down to chemistry. Much of chemistry cannot be forced nor faked in life.
+        Often times, disharmony in familial relationships forces people to go into an endless circle of arguments. Familial members will fight over and over again to fix problems that never seem to resolve. Sometimes the problems are rooted in bad chemistry which don\’t ever resolve out. Other times it\’s because we are pushing actions which are being interpreted wrongly by other family members.
+        One clue to look for is when you try hard yet all you get is more drama. When this happens, don\’t waste energy trying to fix things, rather give some space for new options to arise.
+        We often think that solid family values require us to fight for family harmony. Understand that pushing for harmony ironically can be a trap pushing everyone into more disharmony. Sometimes we need to take a break in actions to allow people to catch up to each other.\n
+        Family isn\’t Only About Blood\n
+        All too often we think because we are related to a person we have to like them.  People are people. Just because a person is related to you doesn\’t mean you must like them.
+        Recognize that it is acceptable to not like everyone in your life. Don\’t let familial pressure force you into bad relationships for the sake of the family.
+        Look at how many royal siblings have offed each other in history, and you will realize blood is not stronger than greed nor power. Strangely, many people will do things for blood relatives they wouldn\’t do for others.
+        So does blood make a difference? From an emotional sense, yes but from a practical sense the answer at times is no. This is why one of the first pieces of business advice you will get is not to do business with other family members: emotional attachments often lead to bad decisions. The emotional bonds of family are strong and can help resolve some differences. So blood can help create shared stories to help moderate social interactions within family. But those emotional bonds are not always enough to create harmony or smooth relationships. Emotional bonds can often cause us to do actions which are worse for us.
+        In truth: family should go beyond blood. We typically only hold as a family those we have deep emotional bonds to and we should extend that definition. Kin should be those who you are willing to grow with in life. You will find many people in life outside your bloodline that you have deep chemistry with and can be part of your extended clan.\n
+        The definition of family should be:\n
+        Those fellow beings we grow with.\n
+        Don\’t let emotional entanglements limit your family.\n
+        It\’s important to discover other relationships if your own blood family isn’t kind to you or doesn\’t accept you!
+        Examine the chemistry in your relationships. Just because a person is related to you doesn\’t ensure chemistry.  Be strong with those familial members you have chemistry with and give lots of space to those you don\’t like.
+        Never over push ANY relationship that lacks chemistry.\n
+        Space and distance are, at times, the best way to maintain a relationship and keep love strong.\n
+        Never Accept Abuse\n
+        Know the difference between fighting and abuse. While fighting can be acceptable, never confuse abuse to be the same thing as squabbling. Abuse is never acceptable. Abuse is the active process of taking away power from a person. Abuse destroys a person. If you are experiencing abuse in your family, then get help and release that abuse. Abuse is a deep problem; it\’s often multi-generational in scope and is very hard to escape.
+        But let me be clear if someone in your life is abusing you, THEN THEY ARE NOT PART OF YOUR FAMILY. Family is about growth and improvement in life. Sometimes the first step in releasing abuse is to come to terms that a person abusing you isn’t family!
+        Once someone begins to take away your power, then that person is actively undercutting you as a person. A true familial member helps you grow; no abuser ever qualifies to be a household member of your life. You will find people wrestling with this for decades before finally releasing the abuser from their family circles so they can live in freedom again.\n\n\n
+    </string>
+
+    <string name="text_three"> Sometimes a harmonious family seems like a fictitious concept, but you can take steps towards a peaceful home life. Tap into the wisdom of a parenting expert who believes that a “no complaining” policy is the key to family harmony.\n
+        A realistic approach \n
+        Before you begin your quest for family harmony, it is best to establish realistic goals and a game plan. “Many people want more family harmony but do not take the time to create rules that lead to it,” says Owen. One of the most effective rules to apply is no complaining. It\’s just not possible to experience family harmony 100 percent of the time, but making an effort to substantially reduce complaining in the home will create a positive atmosphere in which harmony can thrive.\n
+        A toxic habit\n
+        Complaining may seem like a productive activity, especially if you are the one whining. But the truth is that “complaints serve as a discharge mechanism that keeps the conditions that one is complaining about exactly the same,” according to Owen. “Detailing slights, unfair situations and unhappiness has a particularly negative creates a toxic environment.” Perhaps the biggest hindrance to household harmony is that complaining makes it almost impossible to focus on positive dynamics of a family.\n
+        Set an example\n
+        If you are tired of hearing your kids complain, the first thing you need to do is examine your own habits. Chances are, you\’ll catch yourself doing some whining of your own. “I suggest to parents that they institute a family complaint fast,” says Owen. “Ask family members to join in and start with a commitment to not complain for one day. I created a motto as a fun way to help them: no suffering allowed! No suffering aloud!” Allow a day to turn into a week, a week into a month. Before you know it, what was once the norm (excessive complaining) will become uncomfortable. So, what can you do? Owen provides the following tips to create family harmony, relationship harmony and internal harmony:\n
+        Practical tips\n
+        - Express feelings without telling a victim-story \n
+        - Institute a complaint fast \n
+        - Give as much as you receive \n
+        - Receive as much as you give \n
+        - Count your blessings \n
+        By eliminating complaining in your house, you\’ll be able to take the time to reflect on the positive aspects of life and truly enjoy a significant measure of family harmony.\n\n\n
+    </string>
+
+    <string name="text_four">Misunderstanding or more commonly known as miscommunication becomes a very vulnerable thing for couples. In fact, even a small misunderstanding can cause a big problem that leads to a fight.\n\n
+        However, there is always a way for you and your partner to avoid misunderstanding, namely good communication with your partner, because it really determines the quality of your relationship. In fact, good communication is also the main key to strengthening the relationship between you and your partner. So, it\’s good for you and your partner to apply these three tips to avoid misunderstanding:\n
+        Don\’t Blame even Corner the Couple\n
+        Don\’t because you feel right, then you feel you can clearly tell your partner that what he did was a mistake. You need to understand that not everyone can be directly criticized. So, it would be much better if you could tell what was wrong, without blaming and cornering it. Because these two things will not make him understand his mistakes.
+        However, it can actually make him act defensively and will not listen to what you say, because already hurt because of being blamed. So, try to express it better, without offending your partner.\n
+        Explain What You Want\n
+        Never assume that a partner can know everything about you, including what you want and think. Because thoughts like this are usually prone to conflict. You behave as if your partner knows and must know what you want, without saying it. If you are angry, say you are angry and offer a solution. For example, tell your partner that you feel very upset if you are not heard when telling stories.
+        Then, convey that you really want to be heard and cared for when you are telling a story. That way, the couple will fully understand what he needs to do next. So that you and your partner will avoid misunderstanding.\n
+        Honest About Feelings \n
+        Many people who think if avoiding conflict is the most effective way to keep the relationship fine. In fact, this will actually make you no longer open in expressing feelings to your partner.
+        Some people feel that expressing their feelings openly and honestly becomes an error that can trigger conflict. This happens because usually, they have past experiences that have tried to open up, then failed and actually triggered a fight.
+        As a result, your partner finally chooses not to be honest and open and tries to save it himself. However, you and your partner are in a relationship that should make you happy and calm, for each other. Not just fear and keep anticipating conflicts that will occur by covering up the feelings that you have with each other.\n\n\n
+    </string>
+
+    <string name="text_five">Creating a harmonious family is certainly our dream, but to achieve this is not easy, many things can hinder the creation of things, ranging from economic problems, harmony between husband and wife itself and many other things.\n
+        However, there are ways you can maintain that integrity, even if you can have a harmonious family and a positive home environment if you make the following suggestions. Oh yes, to make existing suggestions, you don\’t need to stop working, this only requires wise time and a real example for children.\n
+        1. Always in touch with all family members.\n
+        One of the most important things in family integrity is a strong sense of belonging to one another. You might just be busy at the table when the morning is near, but there\’s nothing wrong with spending a few minutes greeting your child and husband and asking about their schedule for the day.
+        \n 2. Sit and eat together.\n
+        The only chance a family with super busy members can gather together is when dinner arrives. So, try so that all family members always eat together.\n
+        A study says that children who always eat with their families have a lower potential for mischief than those who don\’t. In addition, in its development, these children are also far more "safe" than drug temptations and dropping out of school. Sitting and eating together can also make each member know each other better.
+        \n 3. Develop kindness and kindness to each other.\n
+        As a harmonious family, find out who among family members or neighbours might need help. Then, work together to fulfil the "call for help". This is also an important lesson so that one-day children become people who have a social spirit and care for others.
+        \n Are There Other Ways To Build a Harmonious Family?\n
+        4. Schedule a family vacation.\n
+        When that day arrives, make a mutual agreement to leave each other\’s busy life. Turn off the TV, cell phone, computer, or other things that interfere for a day, and use days for sightseeing, swimming or picnics together. This kind of activity will make relations with each other more tightly.
+        \n\n 5. Communication, communication and communication.\n
+        Give a special time every day, if possible, with your family so that you and they can tell about their lives and activities. This can also be an opportunity for families to have joint meetings to overcome various problems that may arise in the family.
+        \n 6. Go to a place of worship together.\n
+        No matter what religion and believe you and your family currently have, it\’s important to go to worship together. Besides being able to strengthen faith, each member can find the role, purpose, and meaning of life in family and society.
+        \n 7. Let your child lead (sometimes).\n
+        Children like to be heard, so sometimes it allows children who make decisions and parents follow, for example about holiday activities this weekend. In addition to educating children to be able to make decisions, they can also know their abilities and limitations in assessing things
+        \n 8. Make a commitment to work together at home.\n
+        Building mental "we can" through experience working together in solving things must be better than mental individualism and giving up. Remember, the family is a team.
+        \n 9. Take care of your health.\n
+        If parents like to eat junk food and never exercise, children will have the same tendency. So, give an example for children to live a healthy and disciplined lifestyle. For example, brushing your teeth before going to bed, wearing a helmet while riding a motorcycle, wearing a seatbelt, eating vegetables, exercising, getting up in the morning, putting everything in place, and so on.
+        \n 10. Accept each other as is.\n
+        Every family member is different, there is no similarity even though they are twins. Be an open person with other people’s thoughts, even if it\’s your own child. Thus, in a harmonious family, there will be mutual respect that can bring a pleasant atmosphere in everyday life.\n\n\n
+    </string>
+</resources>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "42982665722",
+    "firebase_url": "https://taketoys-4d8d8.firebaseio.com",
+    "project_id": "taketoys-4d8d8",
+    "storage_bucket": "taketoys-4d8d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42982665722:android:f1028a919934e659d20843",
+        "android_client_info": {
+          "package_name": "com.prodate.newdat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42982665722-gjm37mfq1ic696g2mv2k46mbatva7ukm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgpNemBOYgHd4Sxq4g-1IkZAKOMe7DC7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42982665722-gjm37mfq1ic696g2mv2k46mbatva7ukm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42982665722:android:e2f316e2272dc18a",
+        "android_client_info": {
+          "package_name": "com.prodate.newtestdat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42982665722-gjm37mfq1ic696g2mv2k46mbatva7ukm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgpNemBOYgHd4Sxq4g-1IkZAKOMe7DC7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42982665722-gjm37mfq1ic696g2mv2k46mbatva7ukm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
